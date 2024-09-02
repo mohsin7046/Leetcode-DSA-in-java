@@ -22,5 +22,5 @@ public class fibonacii {
     }
 }
 
-//Time-complexity - O(n)
-//Space-Complexity - O(2^n)
+//Space-complexity - O(n)
+//Time-Complexity - O(2^n)
