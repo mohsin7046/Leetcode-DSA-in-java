@@ -15,7 +15,7 @@ public class Sorted_array {
     }
 
     public static void main(String[] args) {
-        int arr [] = {1,2,3,4,5,7,6};
+        int arr [] = {1,2,3,4,5,9,6};
         int i =0;
         System.out.println(Sorted(arr,i));
     }

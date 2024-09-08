@@ -31,6 +31,8 @@ public class Print_Power {
        
         int n =2;
         int x = 5;
+        System.out.println(Optimized_Power(n, x));
         System.out.println(Power(n,x));
+
     }
 }

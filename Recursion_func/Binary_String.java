@@ -2,6 +2,9 @@ package Recursion_func;
 
 
 //Que: Print all binary String of size N without consecutive ones.
+//Example like: n=3  => String : "000""001""010""100""101"   => TotalWays = 5
+
+
 public class Binary_String {
     
     public static void BinaryString(int n,int last_place, String str){
