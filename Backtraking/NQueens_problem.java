@@ -6,7 +6,7 @@ public class NQueens_problem {
         //Base case 
         if(row == board.length){
             PrintBoard(board);
-            // count++;       In case if total count is required
+            count++;      // In case if total count is required
             return;
         }
 
